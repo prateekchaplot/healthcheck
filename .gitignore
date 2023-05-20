@@ -1,0 +1,7 @@
+# frontend
+.angular
+node_modules
+
+# backend
+obj
+bin
